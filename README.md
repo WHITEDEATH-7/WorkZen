@@ -71,8 +71,7 @@ Employee → Attendance → Payroll → Dashboard
 HR Officer ↔ Employee Management ↔ Admin ↔ Payroll Officer
 ````
 
-📎 **Diagram Reference:**
-![HRMS Flow](./HRMS%20Flow.svg)
+
 
 ---
 
@@ -193,14 +192,11 @@ cd backend
 
 ---
 
-## 📊 Dashboard Preview
+## 📊 Dashboard Preview  
 
-Add screenshots of UI components below:
+Watch the demo video below:  
 
-```markdown
-![Dashboard](./screenshots/dashboard.png)
-![Payroll Summary](./screenshots/payroll.png)
-```
+🎥 [Expense Management System Demo](https://drive.google.com/file/d/YOUR_VIDEO_ID/view?usp=sharing)
 
 ---
 
