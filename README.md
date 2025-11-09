@@ -196,7 +196,7 @@ cd backend
 
 Watch the demo video below:  
 
-🎥 [Expense Management System Demo](https://drive.google.com/file/d/YOUR_VIDEO_ID/view?usp=sharing)
+🎥 [HR Management System Demo](https://drive.google.com/drive/folders/1jAZdxPeCikKPD8Z-nTpLpJdDJ4olo2TA?usp=sharing)
 
 ---
 
