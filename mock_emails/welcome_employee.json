@@ -1,0 +1,5 @@
+{
+  "to": "employee@workzen.com",
+  "subject": "Your WorkZen HRMS Account Credentials",
+  "body": "Dear Sarah,\n\nWelcome to WorkZen HRMS! Your account has been created successfully.\n\nLogin Credentials:\n- Login ID: OIJODO20240004\n- Email: employee@workzen.com\n- Temporary Password: Employee@123\n\nPlease log in at: http://localhost:8080/signin\n\nFor security reasons, you will be required to change your password on first login.\n\nBest regards,\nWorkZen HRMS Team"
+}
